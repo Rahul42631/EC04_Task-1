@@ -7,3 +7,4 @@ Here the mechanical rotational motion is turned into digital signals from which 
 ### Use:-
 -Compact and easy to carry.
 -Can measure the length of curved path also.
+![5cow8e](https://user-images.githubusercontent.com/82231782/121411890-b932a400-c981-11eb-968d-1dfc2d8c2501.gif)
