@@ -14,8 +14,10 @@ Can measure the length of curved path also.
 Building 8x8x8 LED cube which forms 3D pattern and visual effects using Arduino.
 ### Working:-
 Consider a 8x8 LED here we can't operate all the LED's at the same time using 16 pins only hence leds are glown line by line at a very fast which looks like a 2D pattern due to persistance of vision. Similar concept is applied in 8x8x8 LED cube where 8x8 led planes are grown at a very fast rate formimg a 3D pattern.
+
 ![5cow8e](https://user-images.githubusercontent.com/82231782/121411890-b932a400-c981-11eb-968d-1dfc2d8c2501.gif)
 ### Use:-
 Can be used to plot 3D graph.
 Can be used for decoration by crating 3D visual effects.
+
 ![5cmep5](https://user-images.githubusercontent.com/82231782/121416521-85a64880-c986-11eb-8b67-8c98deb9f842.gif)
