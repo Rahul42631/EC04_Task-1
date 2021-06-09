@@ -49,4 +49,10 @@ The ability to detect gas and the type of gas depends upon chemiresistor (substa
 ### Use:-
 Can avoid fatal accidents due to gas leakage.
 
-can be used to get information of concentration of pollutent in air of a specific area.
+Can be used to get information of concentration of pollutent in air of a specific area.
+
+## 5. Smart Camera
+Aim is to start recording video using Raspberry pi when ever the PIR sensor detects any motion of a living creature near it.
+### Working:-
+
+### Use:-
