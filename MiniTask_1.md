@@ -36,3 +36,5 @@ Since we can't operate all the LED's at the same time using 16 pins only hence l
 Costomizable fashion accessories that looks very atrective.
 
 Easy to carry and can play simple games on it like snake.
+
+![images](https://user-images.githubusercontent.com/82231782/121418100-3cef8f00-c988-11eb-96b7-17671c9b5c61.jpg)
