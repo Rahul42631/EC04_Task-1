@@ -38,3 +38,20 @@ Costomizable fashion accessories that looks very atrective.
 Easy to carry and can play simple games on it like snake.
 
 ![images](https://user-images.githubusercontent.com/82231782/121418100-3cef8f00-c988-11eb-96b7-17671c9b5c61.jpg)
+
+## 4. Gas Leakage Detector
+Aim is to create a device which can sence the increase in concentration of gas and alarm everyone using a buzzer via Arduino.
+
+### Working:-
+The ability to detect gas and the type of gas depends upon chemiresistor (substance that changes its resistance due to change in chemistry of environment). Most commonly used chemiresistor is SnO2 which is an n-type semiconductor that has free electrons which are attracted to the surface by o2 present in air which lead to decrease in conductivity of the material when the concentratio of another gas increases the concentration of O2 in air decreases hence the electrons start taking part in conduction .A pre configured comparator reacts to the voltage change which is interpreted by Arduino which operates the buzzer accordingly. 
+
+![Gas-Sensor-Working-Principle](https://user-images.githubusercontent.com/82231782/121419885-17fc1b80-c98a-11eb-8dd7-7d8a2e60acff.gif)
+
+![download](https://user-images.githubusercontent.com/82231782/121419897-1af70c00-c98a-11eb-84a4-d555e14dbb9c.jpg)
+
+
+
+### Use:-
+Can avoid fatal accidents due to gas leakage.
+
+can be used to get information of concentration of pollutent in air of a specific area.
