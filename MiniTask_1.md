@@ -20,7 +20,7 @@ Consider a 8x8 LED here we can't operate all the LED's at the same time using 16
 ### Use:-
 Can be used to plot 3D graph.
 
-Can be used for decoration by crating 3D visual effects.
+Can be used for creating 3D visual effects for decoration.
 
 ![5cmep5](https://user-images.githubusercontent.com/82231782/121416521-85a64880-c986-11eb-8b67-8c98deb9f842.gif)
 
