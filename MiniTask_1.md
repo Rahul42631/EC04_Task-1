@@ -81,5 +81,12 @@ Automating hoome appliances starting with fans and led lights.IOT allows us to c
 
 ![download](https://user-images.githubusercontent.com/82231782/121527204-ca2df480-ca17-11eb-9bc7-e38fe81aa20f.jpg)
 ### Use:-
-Alloiw us to keep the data of electrical appliances under operation and sometimes can avoid accidents.
+Allow us to keep the data of electrical appliances under operation and sometimes can avoid accidents.
+
+## 9.Real time virtual piano using hand gestures
+Playing piano by keeping the track of fingers movement using microcontrolles and speaker connected via bluetooth.
+
+![images](https://user-images.githubusercontent.com/82231782/121527394-fc3f5680-ca17-11eb-8dbc-2dd6e9c43568.jpg)
+## Use:-
+Easy to carry and compact.
 
