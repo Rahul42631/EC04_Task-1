@@ -62,6 +62,11 @@ Security.
 
 This system can also be used by photographers.
 
+## 6. Hand gesture controlled car
+Aim is to build a car that can be controlled by hand gestures using Esp32 (Inbuild gyroscope sensor).
 
+![download](https://user-images.githubusercontent.com/82231782/121522016-50473c80-ca12-11eb-989f-cee13781d0bd.jpg)      ![5cmyv9](https://user-images.githubusercontent.com/82231782/121522066-5ccb9500-ca12-11eb-8bc6-7af04ea31852.gif)
 
+### Use:-
+Similar concept could be appiled to build automatic wheel chairs.
 
