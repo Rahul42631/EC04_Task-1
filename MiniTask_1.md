@@ -104,3 +104,8 @@ It is an arduino based poject having acclerometer which are connected with smart
 Creating a multi player arduino based Pong game using 2 joysticks and an Oled display.
 
 ![images](https://user-images.githubusercontent.com/82231782/121539876-a670ab80-ca23-11eb-9c1e-040399e1562d.jpg)
+## 13. Rubix cube solving bot
+This project consist of 6 stepper motor attached to each face center of Rubix cube and the camera that process image using Raspberry pi and operates the stepper motor foloowing the algorithm to solve Rubix cube. 
+
+![download](https://user-images.githubusercontent.com/82231782/121542472-cbfeb480-ca25-11eb-9f67-a69e30be3a6b.jpg)
+
