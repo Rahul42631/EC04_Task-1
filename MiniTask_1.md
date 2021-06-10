@@ -56,12 +56,12 @@ Aim is to start recording video using Raspberry pi when ever the PIR sensor dete
 ### Working:-
 PIR Sensor consist of Pyroelectric sensor which generates energy when eposed to heat which means IR rays emitted by human or animal body gets detected by PIR sensor whenever PIR Sensor detects any motion it supples 3V Voltage at the output pin else it stays at zero voltage.Raspberry pi keeps the record of this voltage change and starts recording video via camera whenever PIR sensor detects any motion. 
 
-![download](https://user-images.githubusercontent.com/82231782/121521001-31947600-ca11-11eb-8102-79f6c0e758e5.png)![download](https://user-images.githubusercontent.com/82231782/121521045-3a854780-ca11-11eb-8efd-ee3c9a2e20b5.png)
+![download](https://user-images.githubusercontent.com/82231782/121521045-3a854780-ca11-11eb-8efd-ee3c9a2e20b5.png)
 ### Use:-
 Security.
 
 This system can also be used by photographers.
 
-![Uploading download.png…]()
+
 
 
