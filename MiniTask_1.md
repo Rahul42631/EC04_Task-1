@@ -102,4 +102,5 @@ It is an arduino based poject having acclerometer which are connected with smart
 ![download](https://user-images.githubusercontent.com/82231782/121539214-17fc2a00-ca23-11eb-9bf6-d59eeed26288.jpg)
 ## 12. Pong game
 Creating a multi player arduino based Pong game using 2 joysticks and an Oled display.
+
 ![images](https://user-images.githubusercontent.com/82231782/121539876-a670ab80-ca23-11eb-9c1e-040399e1562d.jpg)
