@@ -74,7 +74,7 @@ Making an IOT driven Water tank system which can open and close water supply val
 
 ![download](https://user-images.githubusercontent.com/82231782/121524601-16c40080-ca15-11eb-8ae0-2cc5ccb5a06d.jpg)
 ### Use:-
-Save water by fully automating the water filling system. 
+Close the value when water reaches configured level and prevent overflowing. 
 
 ## 8. Voice controlled lights and fans
 Automating hoome appliances starting with fans and led lights.IOT allows us to communicate the data from anywhere using smartphones and microcontrollers control the electric appliances.
