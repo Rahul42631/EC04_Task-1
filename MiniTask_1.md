@@ -96,3 +96,8 @@ Easy to carry and compact.
 Fan having LED strips which are controlled by control unit(Raspberry pi) forming a floating image of an object.
 ![5csa67](https://user-images.githubusercontent.com/82231782/121537122-47aa3280-ca21-11eb-827e-6886c4c59e44.gif)
 
+## 11. Smart shoes
+It is an arduino based poject having acclerometer which are connected with smart phones via bluetooth to track down the distance coverd and calories burnt.
+
+![download](https://user-images.githubusercontent.com/82231782/121539214-17fc2a00-ca23-11eb-9bf6-d59eeed26288.jpg)
+
