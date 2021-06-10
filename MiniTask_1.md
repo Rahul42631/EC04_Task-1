@@ -63,9 +63,17 @@ Security.
 This system can also be used by photographers.
 
 ## 6. Hand gesture controlled car
-Aim is to build a car that can be controlled by hand gestures using Esp32 (Inbuild gyroscope sensor).
+Building a RC car that can be controlled by hand gestures using Esp32 (Inbuild gyroscope sensor).
 
 ![5cmyv9](https://user-images.githubusercontent.com/82231782/121522066-5ccb9500-ca12-11eb-8bc6-7af04ea31852.gif)
 ### Use:-
 Similar concept could be appiled to build automatic wheel chairs.
+
+## 7. IOT driven water tank system
+Making an IOT driven Water tank system which can open and close water supply valves, detects the level of waer filled and communicate all this data through smart phone using TOF10120 distance sensor and esp32.
+
+![download](https://user-images.githubusercontent.com/82231782/121524601-16c40080-ca15-11eb-8ae0-2cc5ccb5a06d.jpg)
+### Use:-
+Save water by fully automating the water filling system. 
+
 
