@@ -83,10 +83,16 @@ Automating hoome appliances starting with fans and led lights.IOT allows us to c
 ### Use:-
 Allow us to keep the data of electrical appliances under operation and sometimes can avoid accidents.
 
+can be used to build temperature controlled room ,shoping comlex and theaters.
+
 ## 9.Real time virtual piano using hand gestures
 Playing piano by keeping the track of fingers movement using microcontrolles and speaker connected via bluetooth.
 
 ![images](https://user-images.githubusercontent.com/82231782/121527394-fc3f5680-ca17-11eb-8dbc-2dd6e9c43568.jpg)
 ## Use:-
 Easy to carry and compact.
+
+## 10. Raspberry Pi controlled Hologram Fan LED display
+Fan having LED strips which are controlled by control unit(Raspberry pi) forming a floating image of an object.
+![5csa67](https://user-images.githubusercontent.com/82231782/121537122-47aa3280-ca21-11eb-827e-6886c4c59e44.gif)
 
