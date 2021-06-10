@@ -76,4 +76,10 @@ Making an IOT driven Water tank system which can open and close water supply val
 ### Use:-
 Save water by fully automating the water filling system. 
 
+## 8. Voice controlled lights and fans
+Automating hoome appliances starting with fans and led lights.IOT allows us to communicate the data from anywhere using smartphones and microcontrollers control the electric appliances.
+
+![download](https://user-images.githubusercontent.com/82231782/121527204-ca2df480-ca17-11eb-9bc7-e38fe81aa20f.jpg)
+### Use:-
+Alloiw us to keep the data of electrical appliances under operation and sometimes can avoid accidents.
 
