@@ -13,6 +13,7 @@ In this the value of count decreases if the rotatry encoder is rotated counter c
 Connections
 OUTPUT A - Pin 4
 OUTPUT B - Pin 5
+ Code:-
 ```
 int counter=0,New,Prev;
 
@@ -43,7 +44,10 @@ CIRCUIT
 ![Untitled](https://user-images.githubusercontent.com/82231782/121810666-5db52e80-cc7f-11eb-945a-d1f5ab60286e.png)
 
 Using LCD without resistor might burn the LCD display.
-Connect thwe pins as per given in the diagram
+
+Connect the pins as per given in the diagram.
+
+Code:-
 
 ```
 #include<LiquidCrystal.h>
