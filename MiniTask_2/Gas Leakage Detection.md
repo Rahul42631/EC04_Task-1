@@ -1,14 +1,14 @@
 # Gas Leakage Detection
 ## Problem Statement
-Aim is to build a distance measuring device using rotary encoder and display the measured distance on LCD display using an Arduino.
+Aim is to create a device which can sense the increase in concentration of gas and alarm everyone using a buzzer via Arduino.
 
 ## Ideation and Planning
 COMPONENTS USED IN PROJECT
 
 1. Arduino nano Microcontroller
 Easy to code and small in size but still since it serves several more functionalities the size is too big for project implementaion.
-2. Rotary encoder 
-Compact and easy to use but the precision is very low which could lead to erroneous measurement.
+2. Gas sensor
+
 3. LCD display
 Easy to use but way too big and heavy for the project.
 
