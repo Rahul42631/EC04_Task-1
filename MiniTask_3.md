@@ -41,6 +41,7 @@ Prev=New;
 CIRCUIT
 
 ![Untitled](https://user-images.githubusercontent.com/82231782/121810666-5db52e80-cc7f-11eb-945a-d1f5ab60286e.png)
+
 Using LCD without resistor might burn the LCD display.
 
 ```
