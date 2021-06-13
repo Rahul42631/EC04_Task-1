@@ -9,6 +9,8 @@ TESTING INDIVIDUAL ELEMENTS
 
 ![Rotary-Encoder-Pinout](https://user-images.githubusercontent.com/82231782/121569977-032d8f80-ca3f-11eb-8840-8a98afeabba4.jpg)
 In this the value of count decreases if the rotatry encoder is rotated counter clockwise and increases if rotated clockwise.We can find the angle covered per increase in value of count hence we can find the distance covered by the roller.
+
+Connections
 OUTPUT A - Pin 4
 OUTPUT B - Pin 5
 ```
@@ -39,7 +41,7 @@ Prev=New;
 CIRCUIT
 
 ![Untitled](https://user-images.githubusercontent.com/82231782/121810666-5db52e80-cc7f-11eb-945a-d1f5ab60286e.png)
-
+Using LCD without resistor might burn the LCD display.
 
 ```
 #include<LiquidCrystal.h>
