@@ -3,7 +3,7 @@
 We can break the code into smaller parts in order to avoid last minute error which would lead us to go through whole code and circuit testing.
 TESTING INDIVIDUAL ELEMENTS
 1. Getting input from rotary encoder via arduino and displayion on Serial Monitor.
-2. Displaying Input from serial monitor on LED display.
+2. Measuring distance from distance sensor and printing it on LCD display.
 
 ### 1. Testing Roatry encoder
 
@@ -36,3 +36,37 @@ Prev=New;
 ```
 ### 1. Testing LCD display
 
+CIRCUIT
+
+![Untitled](https://user-images.githubusercontent.com/82231782/121810666-5db52e80-cc7f-11eb-945a-d1f5ab60286e.png)
+
+
+```
+#include<LiquidCrystal.h>
+LiquidCrystal r(7,8,9,10,11,12);
+int trigger=4,echo=3,Time;
+void setup() {
+  pinMode(trigger,OUTPUT);
+   pinMode(echo,INPUT);
+  r.begin(16,2);
+  Serial.begin(9600);
+}
+
+void loop() {
+ digitalWrite(trigger,HIGH);
+ delayMicroseconds(10);
+   digitalWrite(trigger,LOW);
+   delayMicroseconds(10);
+   digitalWrite(trigger,HIGH);
+ delayMicroseconds(10);
+   digitalWrite(trigger,LOW);
+   
+   Time=0.007*pulseIn(echo,HIGH);
+   delay(25);
+   Serial.println(Time);
+  
+r.setCursor(0,0);
+r.print(Time);
+ 
+}
+```
