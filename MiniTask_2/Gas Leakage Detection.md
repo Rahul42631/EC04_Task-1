@@ -21,7 +21,7 @@ The MQ-2 smoke sensor is sensitive to smoke and to the following flammable gases
 
 -Hydrogen
 
-Working:-
+Working:-The ability to detect gas and the type of gas depends upon chemiresistor (substance that changes its resistance due to change in chemistry of environment). Most commonly used chemiresistor is SnO2 which is an n-type semiconductor that has free electrons which are attracted to the surface by o2 present in air which lead to decrease in conductivity of the material when the concentratio of another gas increases the concentration of O2 in air decreases hence the electrons start taking part in conduction .A pre configured comparator reacts to the voltage change which is interpreted by Arduino which operates the buzzer accordingly.
 
 (MQ-2![MQ2-Gas-Sensor-Output](https://user-images.githubusercontent.com/82231782/121813425-9d811380-cc89-11eb-8592-a174c3878e72.gif)
 )
