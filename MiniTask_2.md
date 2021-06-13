@@ -1,4 +1,4 @@
-# 1. Roll OVA (compact digital rolling ruler)
+# Roll OVA (compact digital rolling ruler)
 ## Problem Statement
 Aim is to build a distance measuring device using rotary encoder and display the measured distance on LCD display using an Arduino.
 
@@ -29,5 +29,4 @@ After investigating through all the electrical componets ,circuits and PCB desig
 ## Prototyping
 Keeping the over all cost of project in mind its time to implement the ideas by breaking project in smaller parts, if we find any undesired outcome we can go back to ideation stage and work recursively on the problem.
 
-# 4. Gas Leakage Detector
-Aim is to create a device which can sence the increase in concentration of gas and alarm everyone using a buzzer via Arduino.
+
