@@ -18,7 +18,7 @@ CHANGES
 
 -Sensitivity of rotary encoder could be increased by incresing the teeth in slit disk .
 
--LCD can be replaced by OLED display which is much more compact and the quality is far better than LCD.
+-LCD can be replaced by OLED display which is much more compact, lighter and the quality is far better than LCD.
 
 APPROACH:-
 
