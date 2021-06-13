@@ -27,10 +27,13 @@ Working:-The ability to detect gas and the type of gas depends upon chemiresisto
 )
 
 2. Arduino nano Microcontroller
+Since Arduino serves many more functionalities using it will increase the net cost of the project andding to that it will be bulky.
 3. Pizo Buzzer
-4. LCD display
+5. LCD display
 
-Gas Sensor --> Microcontroller --> Buzzer
+Gas Sensor --> Microcontroller --> Buzzer + LCD DISPLAY
+
+For different concentration of Gas the gas sensor will give differnt output values (0-5 voltage is mapped in 0-1023) which is read by arduino and displayed on LCD display and when the concentration gets above safety level the buzzer will start beaping.
 
 APPROACH:-
 
