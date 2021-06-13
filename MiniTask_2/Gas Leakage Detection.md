@@ -1,6 +1,6 @@
 # Gas Leakage Detection
 ## Problem Statement
-Aim is to create a device which can sense the increase in concentration of gas and alarm everyone using a buzzer via Arduino.
+Aim is to create a device which can sense the increase in concentration of gas and print it on a LCD display if the consentration gets higher then safty level it will alarm everyone using a buzzer via Arduino.
 
 ## Ideation and Planning
 COMPONENTS USED IN PROJECT
@@ -21,11 +21,14 @@ The MQ-2 smoke sensor is sensitive to smoke and to the following flammable gases
 
 -Hydrogen
 
+Working:-
+
 (MQ-2![MQ2-Gas-Sensor-Output](https://user-images.githubusercontent.com/82231782/121813425-9d811380-cc89-11eb-8592-a174c3878e72.gif)
 )
 
 2. Arduino nano Microcontroller
 3. Pizo Buzzer
+4. LCD display
 
 Gas Sensor --> Microcontroller --> Buzzer
 
