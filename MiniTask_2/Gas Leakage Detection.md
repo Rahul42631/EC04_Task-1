@@ -4,23 +4,24 @@ Aim is to create a device which can sense the increase in concentration of gas a
 
 ## Ideation and Planning
 COMPONENTS USED IN PROJECT
+Gas Sensor --> Microcontroller --> Buzzer
 
-1. Arduino nano Microcontroller
-Easy to code and small in size but still since it serves several more functionalities the size is too big for project implementaion.
-2. Gas sensor
+1. Gas sensor 
+The MQ-2 smoke sensor is sensitive to smoke and to the following flammable gases:
+-LPG
+-Butane
+-Propane
+-Methane
+-Alcohol
+-Hydrogen
 
-3. LCD display
-Easy to use but way too big and heavy for the project.
+(MQ-2![MQ2-Gas-Sensor-Output](https://user-images.githubusercontent.com/82231782/121813425-9d811380-cc89-11eb-8592-a174c3878e72.gif)
+)
 
-PIPLINE : Rotary encode --> Microcontroller --> LCD display
+2. Arduino nano Microcontroller
+3. Pizo Buzzer
 
-IMPROVEMENTS THAT CAN BE MADE
-
--A new PCB could be designed which serve only those functionalities that the project needs hence the size constrain of the microcontroller could be avoided.
-
--Sensitivity of rotary encoder could be increased by incresing the teeth in slit disk .
-
--LCD can be replaced by OLED display which is much more compact, lighter and the quality is far better than LCD.
+Gas Sensor --> Microcontroller --> Buzzer
 
 APPROACH:-
 
