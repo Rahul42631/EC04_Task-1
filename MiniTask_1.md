@@ -93,7 +93,7 @@ Playing piano by keeping the track of fingers movement using microcontrolles and
 Easy to carry and compact.
 
 ## 10. Raspberry Pi controlled Hologram Fan LED display
-Fan having LED strips which are controlled by control unit(Raspberry pi) forming a floating image of an object.
+Rotating fan having LED strips which are controlled by control unit(Raspberry pi) forming a floating image of an object.
 ![5csa67](https://user-images.githubusercontent.com/82231782/121537122-47aa3280-ca21-11eb-827e-6886c4c59e44.gif)
 
 ## 11. Smart shoes
