@@ -8,11 +8,17 @@ Gas Sensor --> Microcontroller --> Buzzer
 
 1. Gas sensor 
 The MQ-2 smoke sensor is sensitive to smoke and to the following flammable gases:
+
 -LPG
+
 -Butane
+
 -Propane
+
 -Methane
+
 -Alcohol
+
 -Hydrogen
 
 (MQ-2![MQ2-Gas-Sensor-Output](https://user-images.githubusercontent.com/82231782/121813425-9d811380-cc89-11eb-8592-a174c3878e72.gif)
