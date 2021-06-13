@@ -37,7 +37,7 @@ Serial.print(count);
 Prev=New;
 }
 ```
-### 1. Testing LCD display
+### 2. Testing LCD display
 
 CIRCUIT
 
